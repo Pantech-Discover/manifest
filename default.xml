@@ -12,7 +12,6 @@
   <project groups="default" name="device/sample" revision="f036071aa92009d493af7bb39a615e6fc13113b0"/>
   <project groups="default" name="platform/abi/cpp" path="abi/cpp" revision="eb789ea833d8d800662b67914d9c1785a58c2caa"/>
   <project groups="default" name="platform/bionic" path="bionic" revision="562c8d4e103dc3d0b79e6c38fc3156cecfde5918"/>
-  <project groups="default" name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="b1fde5cd7d5158b8e6876139ca76a341d0e49708"/>
   <project groups="default" name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="d2a0ffa065dbb98e9acbf873dff5eb129bf2be71"/>
   <project groups="default" name="platform/bootable/recovery" path="bootable/recovery" revision="e46c890ce39ff1147bff676f740b57f29bd5c508"/>
   <project groups="default" name="platform/build" path="build" revision="22443a774ee676681d0235b954aa4a195ecc57f2">
@@ -195,11 +194,8 @@
   <project groups="default" name="platform/frameworks/testing" path="frameworks/testing" revision="bba35200edb99e6f2357512bd2633f65ca148158"/>
   <project groups="default" name="platform/frameworks/wilhelm" path="frameworks/wilhelm" revision="91145ef159d3e165a461cbd76341ff8ed3d72bae"/>
   <project groups="default" name="platform/gdk" path="gdk" revision="90dfd3839f9f755ee288e5d64fb2221d1512ea8d"/>
-  <project groups="default" name="platform/hardware/broadcom/wlan" path="hardware/broadcom/wlan" revision="9002fdbdf86753148dafcf910ad47fa0a1b85471"/>
-  <project groups="default" name="platform/hardware/invensense" path="hardware/invensense" revision="8792ef0f74a024dec788de02f60280dd66f871f3"/>
   <project groups="default" name="platform/hardware/libhardware" path="hardware/libhardware" revision="7ed9156a820ff8cdf400d6937691e9cee8057a9b"/>
   <project groups="default" name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="a44019795f6da975c223d28d8bd95402e42561f1"/>
-  <project groups="default" name="platform/hardware/msm7k" path="hardware/msm7k" revision="6ea25252e4993c7fb88a74a7d0d281bebf5f897f"/>
   <project groups="default" name="platform/hardware/qcom/audio" path="hardware/qcom/audio" revision="9f9e8a9afea20cc1bd0a748b3cbd127deb8f9b39"/>
   <project groups="default" name="platform/hardware/qcom/camera" path="hardware/qcom/camera" revision="a3bb48bd72d0007ef98429e35af5f0e37a0afb8f"/>
   <project groups="default" name="platform/hardware/qcom/display" path="hardware/qcom/display" revision="c790cff0b0baa1be4f32d1f3d227a8fc464728ee"/>
